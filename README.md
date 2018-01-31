@@ -1,3 +1,6 @@
+# Android Calculator
+This is simple android calculator
+
 XML Code
 -----------------------------------------------------------------------------------------------------------------------------------
 <?xml version="1.0" encoding="utf-8"?>
