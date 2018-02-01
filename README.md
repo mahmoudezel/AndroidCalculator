@@ -1,5 +1,5 @@
 # Android Calculator
-This is simple android calculator
+simple android calculator
 
 XML Code
 -----------------------------------------------------------------------------------------------------------------------------------
