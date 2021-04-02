@@ -1,8 +1,13 @@
 # Android Calculator
-simple android calculator
+#### Simple android calculator
 
 XML Code
 -----------------------------------------------------------------------------------------------------------------------------------
+
+<h4>
+
+```
+
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -404,8 +409,17 @@ XML Code
     </RelativeLayout>
 </LinearLayout>
 
+```
+
+<h4>
+
 Java Code
 -----------------------------------------------------------------------------------------------------------------------------------
+
+<h4>
+
+```
+
 package com.example.ezel.calculator;
 
 import android.support.v7.app.AppCompatActivity;
@@ -902,3 +916,7 @@ public class MainActivity extends AppCompatActivity {
         screen.setText("0" + firstNumber);
     }
 }
+
+```
+
+<h4>
